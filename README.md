@@ -1,6 +1,8 @@
 # 📜 포트폴리오
 
 # 👋 Intro
+> 안녕하세요.   
+> 컴퓨터공학을 전공하였으며, 웹개발(백엔드)에 흥미와 관심이 있어서 프로젝트를 진행하였습니다.
 
 # 📝 Projects
 ## 1. 🚗 MyCar
@@ -8,7 +10,7 @@
 ## 2. 🖍 HanJa
 > AR한자공부앱
 ## 3. 🌐 MySNS
-> SNS
+> SNS 웹사이트
    
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
