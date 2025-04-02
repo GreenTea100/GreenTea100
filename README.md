@@ -1,16 +1,30 @@
 # 📜 포트폴리오
-
+> 강민석의 포트폴리오
 # 👋 Intro
 > 안녕하세요.   
 > 컴퓨터공학을 전공하였으며, 웹개발(백엔드)에 흥미와 관심이 있어서 프로젝트를 진행하였습니다.
 
 # 📝 Projects
 ## 1. 🚗 MyCar
-> 차가계부
+> 차 가계부
+> - 개발기간 : 2022.03.21 - 2022.06.14
+> - Language : Dart
+> - Skill : Flutter, Strapi
+>
+> [프로젝트 상세 설명](https://github.com/GreenTea100/car)
 ## 2. 🖍 HanJa
 > AR한자공부앱
+> - 개발기간 : 2022.09.23 - 2022.12.12
+> - Skill : Unity, Vuforia
+>
+> [프로젝트 상세 설명](https://github.com/GreenTea100/HanJa)
 ## 3. 🌐 MySNS
 > SNS 웹사이트
+> - 개발기간 : 2023.04.05 - 2023.11.10
+> - Language : JavaScript
+> - Skill : React, Firebase, GitHub Enterprise Server
+>
+> [프로젝트 상세 설명](https://github.com/GreenTea100/mysns)
    
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
