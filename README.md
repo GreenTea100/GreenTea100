@@ -12,7 +12,7 @@
 > - Skill : Flutter, Strapi
 >
 > [프로젝트 상세 설명](https://github.com/GreenTea100/car)
-## 2. 🖍 판다와 함께 하는 한자 공부
+## 2. 🖍 판다와 함께하는 한자 공부
 > AR한자공부앱
 > - 개발기간 : 2022.09.23 - 2022.12.12
 > - Skill : Unity, Vuforia
