@@ -29,9 +29,9 @@
 > MBTI 특화 AI 챗봇
 > - 개발기간 : 
 > - Language : Python
-> - Skill : 
+> - Skill : OpenAI API,
 >
-> [프로젝트 상세 설명]()
+> [프로젝트 상세 설명](https://github.com/GreenTea100/MBTI-AI-Chatbot)
    
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
