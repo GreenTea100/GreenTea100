@@ -27,9 +27,9 @@
 > [프로젝트 상세 설명](https://github.com/GreenTea100/mysns)
 ## 4. MBTI 챗봇
 > MBTI 특화 AI 챗봇
-> - 개발기간 : 
+> - 개발기간 : 2026.03.13 - 2026.03.27
 > - Language : Python
-> - Skill : OpenAI API,
+> - Skill : OpenAI API, LangChain, Streamlit, Chroma
 >
 > [프로젝트 상세 설명](https://github.com/GreenTea100/MBTI-AI-Chatbot)
    
